@@ -1,0 +1,8 @@
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    margin-left: 10px;
+}
+.App {
+    background-color: rgb(202, 195, 195);
+}
